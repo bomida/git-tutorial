@@ -14,15 +14,21 @@
 - [브랜치 Merge](#브랜치-Merge)
 - [브랜치 Rebase](#브랜치-Rebase)
 
+<br> 
+
 ## ✔️ 체크사항
 - git입문자들을 위한 초급 강의 입니다.
 - mac OS 기준으로만 정리하였습니다.
+
+<br> 
 
 ## 🛠 준비물
 - [Sourcetree](https://www.sourcetreeapp.com)
 - [Git](https://git-scm.com)
 - IDE(VS Code, Atom etc...) 저는 강의 내용에 따라 [VS Code](https://code.visualstudio.com)를 사용했습니다.
 - 위의 세가지를 모두 다운 받아 주세요.
+
+<br> 
 
 ## 👏 이제 따라 해볼까요?
 
