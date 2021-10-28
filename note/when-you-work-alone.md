@@ -1,8 +1,9 @@
 ## 🛠 준비물
+- 아래 세가지를 모두 다운 받아 주세요.
 - [Sourcetree](https://www.sourcetreeapp.com)
 - [Git](https://git-scm.com)
 - IDE(VS Code, Atom etc...) 저는 강의 내용에 따라 [VS Code](https://code.visualstudio.com)를 사용했습니다.
-- 위의 세가지를 모두 다운 받아 주세요.
+
 
 <br> 
 
