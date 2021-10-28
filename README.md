@@ -1,4 +1,4 @@
-<h1 align="center">Git tutorial : for beginner<br>(when you work alone)</h1>
+<h1 align="center">Git tutorial : for beginner</h1>
 
 <br> 
 
