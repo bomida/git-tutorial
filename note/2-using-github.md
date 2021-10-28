@@ -53,14 +53,27 @@
     6. 이제 깃허브 창을 새로고침해보면 파일들이 로컬로부터 push한 파일들이 올라와 있는 것을 확인할 수 있습니다.
     7. 다시 터미널로 돌아와 `git remote`를 입력해보면, origin이라는 원격 레포지토리 이름이 나옵니다.
   <img width="1126" alt="스크린샷 2021-10-29 오전 3 02 02" src="https://user-images.githubusercontent.com/93115007/139310546-d2dc2dba-9152-4f20-9af1-4e6b8f98f55f.png">
+
+  
   - Sourcetree
     1. 소스트리를 실행한 뒤 프로젝트 폴더와 연결 시켜줍니다.
     2. 상단바에 저장소 > 원격저장소추가를 선택해주세요.
     3. 원격 이름은 origin이라 넣고, 그 밑에 URL/경로에는 아래 이미지를 참고해 2번(깃허브 레포지토리 주소)를 복사해 붙여넣습니다.
-  <img width="1126" alt="스크린샷 2021-10-29 오전 3 02 02" src="https://user-images.githubusercontent.com/93115007/139311390-54028fba-3a45-41a2-b128-47dab10d4020.png">
+    4. 사용자명에는 깃허브 유저명을 입력해주고 확인을 눌러주면 소스트리 왼쪽바의 원격 탭에 origin이 뜬걸 확인할 수 있습니다.
+  <img width="500" alt="스크린샷 2021-10-29 오전 3 02 02" src="https://user-images.githubusercontent.com/93115007/139311390-54028fba-3a45-41a2-b128-47dab10d4020.png">
   <img width="1126" alt="스크린샷 2021-10-29 오전 3 11 20" src="https://user-images.githubusercontent.com/93115007/139312028-31ed5cb6-1d9d-4e5f-b2c3-5817ad7c5dd0.png">
-    4. 사용자명에는 깃허브 유저명을 입력해주세요.
 
+<br>
+
+### Github에 소스 올리기
+  - VS Code
+    1. push를 하는 방법은
+
+  - Sourcetree
+    1. push를 하고싶다면 상단에 푸시를 눌러주세요.
+    2. 그리고 로컬의 main 브랜치를 체크해 올리는걸로 설정한 뒤 확인버튼을 눌러주세요.
+    
+ 
 <br><br><br>
 
 출처: 얄팍한 코딩사전 님의 <a href= "https://youtu.be/GaKjTjwcKQo">가장 쉬운 Git 강좌 - (하) Github편<a>을 보고 정리한 것입니다.
