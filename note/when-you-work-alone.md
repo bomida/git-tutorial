@@ -1,9 +1,20 @@
+## 목차
+### 혼자작업편
+- [체크사항](#✔️-체크사항)
+- [준비물](#🛠-준비물)
+- [Git 저장소 만들기](#Git-저장소-만들기)
+- [현재 시점을 저장하기](#현재-시점을-저장하기)
+- [과거 돌아가기 Reset](#과거-돌아가기-Reset)
+- [과거 돌아가기 Revert](#과거-돌아가기-Revert)
+- [Branch 생성하기](#Branch-생성하기)
+- [브랜치 Merge](#브랜치-Merge)
+- [브랜치 Rebase](#브랜치-Rebase)
+
 ## 🛠 준비물
 - 아래 세가지를 모두 다운 받아 주세요.
 - [Sourcetree](https://www.sourcetreeapp.com)
 - [Git](https://git-scm.com)
 - IDE(VS Code, Atom etc...) 저는 강의 내용에 따라 [VS Code](https://code.visualstudio.com)를 사용했습니다.
-
 
 <br> 
 
