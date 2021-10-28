@@ -21,7 +21,7 @@
  git config --global user.name "내 이름"
  git config --global user.email "메일 주소"
  ```
- 4. 프로젝트 안의 파일들을 메시지를 작성해서 커밋해줍니다.
+ [4. 프로젝트 안의 파일들을 메시지를 작성해서 커밋해줍니다.]
  ```
  git add -A
  git commit -m "메시지"
@@ -36,7 +36,14 @@
   <img width="804" alt="스크린샷 2021-10-29 오전 2 04 46" src="https://user-images.githubusercontent.com/93115007/139302924-d0b34560-cbe4-4bec-acab-2bd9af20a8c6.png">
   3. 이제 레포지토리를 생성시켜줍니다.
 
-### Github 저장소(Repository) 만들기
+<br>
+
+### Github에 소스 올리기
+  1. 앞서 준비 작업한 VS Code를 가져오세요.
+  2. 터미널에서 `git status`를 입력해보고 모든 작업이 commit이 되어 있는 확인해줍니다.
+  3. <br>혹시 빠진 작업이 있다면 위의 작업으로 [커밋](#4. 프로젝트 안의 파일들을 메시지를 작성해서 커밋해줍니다.)을 해줍니다.
   <img width="1126" alt="스크린샷 2021-10-29 오전 2 13 16" src="https://user-images.githubusercontent.com/93115007/139303711-c43ae316-37bc-4b19-bf26-116deb836d93.png">
+  
+<br><br><br>
 
 출처: 얄팍한 코딩사전 님의 <a href= "https://youtu.be/GaKjTjwcKQo">가장 쉬운 Git 강좌 - (하) Github편<a>을 보고 정리한 것입니다.
