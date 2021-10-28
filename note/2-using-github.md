@@ -36,7 +36,7 @@
   <img width="804" alt="스크린샷 2021-10-29 오전 2 04 46" src="https://user-images.githubusercontent.com/93115007/139302924-d0b34560-cbe4-4bec-acab-2bd9af20a8c6.png">
    3. 이제 레포지토리를 생성시켜줍니다.
 
-<br>
+<br><br>
 
 ### Github에 소스 올리기
   - VS Code
