@@ -4,7 +4,7 @@
 - [준비 작업](#준비- 작업)
 - [Github 저장소(Repository) 만들기](#Github-저장소(Repository)-만들기)
 - [Github에 소스 올리기](#Github에-소스-올리기)
-- [준비물](#준비물)
+- [Github에 소스 push 하기](#Github에-소스-push-하기)
 
 
 
