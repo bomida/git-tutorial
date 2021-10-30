@@ -40,7 +40,7 @@
 ### Github 저장소(Repository) 만들기
   1. [Github](https://github.com)에 접속하여 새로운 repository를 만들어줍니다.
   2. 레포지토리 이름을 작성해주고, 설명을 적어서 습니다.
-   <br>그리고 하단에 'Initialize this repository with:' 부분은 체크를 하지말아주세요.
+  <br>그리고 하단에 'Initialize this repository with:' 부분은 체크를 하지말아주세요.
   3. 이제 레포지토리를 생성시켜줍니다.
   <img width="804" alt="스크린샷 2021-10-29 오전 2 04 46" src="https://user-images.githubusercontent.com/93115007/139302924-d0b34560-cbe4-4bec-acab-2bd9af20a8c6.png">
 
@@ -61,7 +61,7 @@
        - 두번 째 줄에 있는 push 명령어는, 폴더의 현 브랜치에 커밋된 내용들을 origin의 레포지토리의 브랜치에 올리겠다는 뜻입니다.
     6. 이제 깃허브 창을 새로고침해보면 파일들이 로컬로부터 push한 파일들이 올라와 있는 것을 확인할 수 있습니다.
     7. 다시 터미널로 돌아와 `git remote`를 입력해보면, origin이라는 원격 레포지토리 이름이 나옵니다.
-  <img width="1126" alt="스크린샷 2021-10-29 오전 3 02 02" src="https://user-images.githubusercontent.com/93115007/139310546-d2dc2dba-9152-4f20-9af1-4e6b8f98f55f.png">
+    <img width="1126" alt="스크린샷 2021-10-29 오전 3 02 02" src="https://user-images.githubusercontent.com/93115007/139310546-d2dc2dba-9152-4f20-9af1-4e6b8f98f55f.png">
 
   
   - Sourcetree
@@ -69,8 +69,8 @@
     2. 상단바에 저장소 > 원격저장소추가를 선택해주세요.
     3. 원격 이름은 origin이라 넣고, 그 밑에 URL/경로에는 아래 이미지를 참고해 2번(깃허브 레포지토리 주소)를 복사해 붙여넣습니다.
     4. 사용자명에는 깃허브 유저명을 입력해주고 확인을 눌러주면 소스트리 왼쪽바의 원격 탭에 origin이 뜬걸 확인할 수 있습니다.
-  <img width="500" alt="스크린샷 2021-10-29 오전 3 02 02" src="https://user-images.githubusercontent.com/93115007/139311390-54028fba-3a45-41a2-b128-47dab10d4020.png">
-  <img width="1126" alt="스크린샷 2021-10-29 오전 3 11 20" src="https://user-images.githubusercontent.com/93115007/139312028-31ed5cb6-1d9d-4e5f-b2c3-5817ad7c5dd0.png">
+    <img width="500" alt="스크린샷 2021-10-29 오전 3 02 02" src="https://user-images.githubusercontent.com/93115007/139311390-54028fba-3a45-41a2-b128-47dab10d4020.png">
+    <img width="1126" alt="스크린샷 2021-10-29 오전 3 11 20" src="https://user-images.githubusercontent.com/93115007/139312028-31ed5cb6-1d9d-4e5f-b2c3-5817ad7c5dd0.png">
 
 <br>
 
@@ -96,18 +96,15 @@
     <br> (이 파일은 숨김 파일로 지정이 되니 확인하고싶다면, `command + shift + .`로 숨김파일 보기를 해주세요.)
     2. 그리고 노출을 원하지 않는 파일 명을 적어줍니다.
        - 만약 신규 파일과 gitignore파일을 생성하고 `git status`를 입력하면 신규 파일과 gitignore파일 두개가 보일거예요.
-       <br> 하지만 gitignore파일에 신규 파일 이름을 적고 저장한 다음 `git status`를 다시 입력하면 신규 파일이 보이지 않는걸 확인할 수 있습니다.
-       <br> 그리고 커밋을 하면 신규 파일을 제외하고 커밋된 걸 확인 할 수 있습니다.
+       <br> 하지만 gitignore파일에 신규 파일 이름을 적고 저장한 다음 `git status`를 다시 입력하면
+       신규 파일이 보이지 않는걸 확인할 수 있습니다. 그리고 커밋을 하면 신규 파일을 제외하고 커밋된 걸 확인 할 수 있습니다.
  
 <br>
 
-내 레파지토리에 다른 사용자 초대하기
-레파지토리에 사용자를 초대하려면 레파지토리 페이지에서 setting 카테고리를 선택해주세요.
-좌측 탭에서 Collaborators를 누르면, 초대할 사람의 유저네임이나 이메일을 초대해주면 레파지토리를 공유할 수 있습니다.
-
-
-
  ### Github의 소스 내려받기
+  - 내 레파지토리에 다른 사용자 초대하기
+       - 레파지토리에 사용자를 초대하려면 레파지토리 페이지에서 setting 카테고리를 선택해주세요.
+       - 좌측 탭에서 Collaborators를 누르면, 초대할 사람의 유저네임이나 이메일을 초대해주면 레파지토리를 공유할 수 있습니다.
   - VS Code
     1. 소스를 내려받을 폴더를 VS Code에 열고, 터미널을 열어주세요.
     2. 레파지토리 페이지에서 아래의 참고 이미지처럼 Code를 눌러 링크를 복사해주세요.
@@ -117,19 +114,35 @@
     5. 지금 VS Code에서는 바깥 폴더를 연거라서 다운받은 폴더에서 작업을 하려면 `cd ./폴더명/`을 입력해서 폴더 안에 들어가서 작업해야합니다.
  
   - Sourcetree
-    1. 소스트리 창에서 아래의 참ㄱ 이미지처럼 새로 만들기를 눌러서 URL엣 복제를 눌러주세요
-    <img width="500" alt="https://user-images.githubusercontent.com/93115007/139530176-1ebc37c1-69ca-421b-9efa-94e3ff38b611.png"><br>
+    1. 소스트리 창에서 아래의 참고 이미지처럼 새로 만들기를 눌러서 URL에서 복제를 눌러주세요.
+    <img width="480" alt="스크린샷 2021-10-30 오후 8 37 20" src="https://user-images.githubusercontent.com/93115007/139531435-f902997c-9f19-4d67-ad0f-6c402c3a9448.png"><br>
+    2. 그리고 목적지 경로에 프로젝트 폴더가 위치할 곳을 지정해주면 다운이 받아지고, 해당 폴더가 열려요.
 
 <br>
 
 ### 작업 주고받기
-  - 
- 
+  - VS Code
+    1. `git fetch`를 입력해주세요.
+    2. 그리고 `git status`를 입력해보면, github에 다운받아야할 사항이 있다는 결과가 나오면
+    <br> `git pull origin 브랜치명`을 입력합니다. 그러면 최신 github 데이터 상태를 받아올 수 있습니다.
+
+  - Sourcetree
+    1. 소스트리의 브랜치 페이지에서 페치(fetch)를 클릭하고,모든 저장소에서 받아오는걸로 설정해주세요.
+    2. 좌측 탭에 마스터 브랜치에서 뭔가 받아올게 있다고 뜹니다.
+    3. Pull을 눌러서 github로부터 당겨오면 동기화된 걸 볼 수 있습니다.
+    4. 다른 쪽에 올린지 시간이 지나거나 소스트리를 다시 열건 했을때도 pull 표시가 나타나지만
+    <br>github으로 협업을 할 때에는 작업을 하거나 푸시학 전에 pull의 표시가 있던지 없던지 먼저 눌러주는게 좋습니다.
+
 <br>
 
 ### 브랜치 주고받기
-  -  
-  
+  - VS Code
+  - 브랜치를 새로 만들어서 만든 브랜칭 바로 체크아웃을 하고싶다면 `git checkout -b 브랜치명`을 입력해주세요.
+    1. 브랜치를 업로드 하려면 파일을 업로드 하는 것 처럼 `git push origin 브랜치명`을 입력하면 업로드 됩니다.
+    2. github 페이지에서 새로고침을 하면 push한 브랜치와 파일을 확인할 수 있습니다.
+  - `git branch`를 입력하면 로컬에 있는 브랜치만 확인가능합니다. 하지만, `git -a branch`를 입력하면 원격에 있는 브랜치를 볼 수 있습니다.
+  <br> 만약 보이지 않는다면 github의 현 상태를 파악하지 않았다는 뜻 입니다. 그렇기 때문에 `git fetch`를 실행해서 원격의 소식을 알아봐야합니다.
+
 <br>
 
 
